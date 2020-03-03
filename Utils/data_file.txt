@@ -1,0 +1,338 @@
+title,anchor,value,Agam,Subhakar
+Remove Vowels from a String,/problems/remove-vowels-from-a-string,88.9023755852263
+How Many Numbers Are Smaller Than the Current Number,/problems/how-many-numbers-are-smaller-than-the-current-number,88.04422000818889
+Number of Steps to Reduce a Number to Zero,/problems/number-of-steps-to-reduce-a-number-to-zero,86.78116750760184
+Defanging an IP Address,/problems/defanging-an-ip-address,86.05710643244156
+Decompress Run-Length Encoded List,/problems/decompress-run-length-encoded-list,84.78384955087571
+Subtract the Product and Sum of Digits of an Integer,/problems/subtract-the-product-and-sum-of-digits-of-an-integer,84.57850579304834
+Jewels and Stones,/problems/jewels-and-stones,84.56352323893547
+Single-Row Keyboard,/problems/single-row-keyboard,84.54225025507837
+Find Numbers with Even Number of Digits,/problems/find-numbers-with-even-number-of-digits,84.4996225148897
+Split a String in Balanced Strings,/problems/split-a-string-in-balanced-strings,81.44001363326517
+Find Anagram Mappings,/problems/find-anagram-mappings,80.46316035394095
+Convert Binary Number in a Linked List to Integer,/problems/convert-binary-number-in-a-linked-list-to-integer,79.90259896812768
+Count Negative Numbers in a Sorted Matrix,/problems/count-negative-numbers-in-a-sorted-matrix,79.68956859164574
+Minimum Time Visiting All Points,/problems/minimum-time-visiting-all-points,79.30215069935329
+Range Sum of BST,/problems/range-sum-of-bst,79.29174532705433
+Maximum 69 Number,/problems/maximum-69-number,78.76426487424752
+To Lower Case,/problems/to-lower-case,78.51890553868687
+Armstrong Number,/problems/armstrong-number,78.02777289506065
+Cells with Odd Values in a Matrix,/problems/cells-with-odd-values-in-a-matrix,77.84121083377589
+Intersection of Three Sorted Arrays,/problems/intersection-of-three-sorted-arrays,77.57300989166274
+High Five,/problems/high-five,77.42883459800869
+Replace Elements with Greatest Element on Right Side,/problems/replace-elements-with-greatest-element-on-right-side,77.41617798469045
+Decrypt String from Alphabet to Integer Mapping,/problems/decrypt-string-from-alphabet-to-integer-mapping,76.7402456817433
+Find N Unique Integers Sum up to Zero,/problems/find-n-unique-integers-sum-up-to-zero,76.57550535077289
+Remove Outermost Parentheses,/problems/remove-outermost-parentheses,76.5645642978473
+Count Substrings with Only One Distinct Letter,/problems/count-substrings-with-only-one-distinct-letter,76.5301262205287
+Unique Morse Code Words,/problems/unique-morse-code-words,76.04140645467893
+Flipping an Image,/problems/flipping-an-image,74.70984649943841
+Sum of Digits in the Minimum Number,/problems/sum-of-digits-in-the-minimum-number,74.44107313957203
+Sort Array By Parity,/problems/sort-array-by-parity,73.64760538987726
+N-Repeated Element in Size 2N Array,/problems/n-repeated-element-in-size-2n-array,73.00207256212074
+Self Dividing Numbers,/problems/self-dividing-numbers,72.97802248585556
+Robot Return to Origin,/problems/robot-return-to-origin,72.87463532892305
+Merge Two Binary Trees,/problems/merge-two-binary-trees,72.74043215241308
+Squares of a Sorted Array,/problems/squares-of-a-sorted-array,72.19562481715897
+Nested List Weight Sum,/problems/nested-list-weight-sum,71.71512955009177
+Unique Number of Occurrences,/problems/unique-number-of-occurrences,71.20989278941053
+Hamming Distance,/problems/hamming-distance,71.13392487355515
+DI String Match,/problems/di-string-match,71.03540929527256
+Array Partition I,/problems/array-partition-i,70.98359374127476
+Peak Index in a Mountain Array,/problems/peak-index-in-a-mountain-array,70.8783463829881
+Number of Recent Calls,/problems/number-of-recent-calls,70.49725625798692
+Search in a Binary Search Tree,/problems/search-in-a-binary-search-tree,70.446957525856
+N-ary Tree Postorder Traversal,/problems/n-ary-tree-postorder-traversal,70.34106064171962
+N-ary Tree Preorder Traversal,/problems/n-ary-tree-preorder-traversal,70.31520011059654
+Delete Columns to Make Sorted,/problems/delete-columns-to-make-sorted,69.87785893904922
+Sort Integers by The Number of 1 Bits,/problems/sort-integers-by-the-number-of-1-bits,69.48547513540127
+Moving Average from Data Stream,/problems/moving-average-from-data-stream,69.05520762826032
+The K Weakest Rows in a Matrix,/problems/the-k-weakest-rows-in-a-matrix,68.7753036437247
+Fixed Point,/problems/fixed-point,68.7009465823146
+Logger Rate Limiter,/problems/logger-rate-limiter,68.65055706673621
+Height Checker,/problems/height-checker,68.53573195730543
+Sort Array By Parity II,/problems/sort-array-by-parity-ii,68.01742568589039
+Subdomain Visit Count,/problems/subdomain-visit-count,67.95880993700682
+Find Positive Integer Solution for a Given Equation,/problems/find-positive-integer-solution-for-a-given-equation,67.82033618076605
+How Many Apples Can You Put into the Basket,/problems/how-many-apples-can-you-put-into-the-basket,67.79700115340253
+Unique Email Addresses,/problems/unique-email-addresses,67.64916768404937
+Reverse Words in a String III,/problems/reverse-words-in-a-string-iii,67.64742066695885
+Increasing Order Search Tree,/problems/increasing-order-search-tree,67.41544864241482
+Maximum Depth of N-ary Tree,/problems/maximum-depth-of-n-ary-tree,67.39064375465306
+Relative Sort Array,/problems/relative-sort-array,67.26273241713824
+Univalued Binary Tree,/problems/univalued-binary-tree,67.25550779150994
+Find Words That Can Be Formed by Characters,/problems/find-words-that-can-be-formed-by-characters,67.12876889499636
+Largest Unique Number,/problems/largest-unique-number,66.92994505494505
+Projection Area of 3D Shapes,/problems/projection-area-of-3d-shapes,66.90825061708944
+Fibonacci Number,/problems/fibonacci-number,66.80233970909848
+Find Common Characters,/problems/find-common-characters,66.73523507397952
+Remove All Adjacent Duplicates In String,/problems/remove-all-adjacent-duplicates-in-string,66.45800933125972
+Minimum Absolute Difference,/problems/minimum-absolute-difference,66.23290575638715
+Middle of the Linked List,/problems/middle-of-the-linked-list,66.19456120277216
+Available Captures for Rook,/problems/available-captures-for-rook,65.99251354824291
+Reverse String,/problems/reverse-string,65.70676846099447
+Shortest Distance to a Character,/problems/shortest-distance-to-a-character,65.60958590986742
+Divisor Game,/problems/divisor-game,65.48767771727437
+Smallest Range I,/problems/smallest-range-i,65.17600472138139
+Groups of Special-Equivalent Strings,/problems/groups-of-special-equivalent-strings,64.9682832003274
+Matrix Cells in Distance Order,/problems/matrix-cells-in-distance-order,64.92472445325267
+Leaf-Similar Trees,/problems/leaf-similar-trees,64.76600124995404
+Sum of Root To Leaf Binary Numbers,/problems/sum-of-root-to-leaf-binary-numbers,64.63456430468682
+Occurrences After Bigram,/problems/occurrences-after-bigram,64.61314648773826
+Day of the Week,/problems/day-of-the-week,64.28479298336129
+Maximum Depth of Binary Tree,/problems/maximum-depth-of-binary-tree,64.06776384949431
+Number of Lines To Write String,/problems/number-of-lines-to-write-string,64.01466510338153
+Play with Chips,/problems/play-with-chips,63.95563770794824
+Keyboard Row,/problems/keyboard-row,63.76606778577924
+Toeplitz Matrix,/problems/toeplitz-matrix,63.57513234484843
+Transpose Matrix,/problems/transpose-matrix,63.338719196571105
+Number Complement,/problems/number-complement,63.2222437314695
+Single Number,/problems/single-number,62.98002369345327
+Island Perimeter,/problems/island-perimeter,62.82903263372614
+Baseball Game,/problems/baseball-game,62.527809567406734
+Last Stone Weight,/problems/last-stone-weight,62.48386501936197
+Next Greater Element I,/problems/next-greater-element-i,62.1551589867515
+Sum of Even Numbers After Queries,/problems/sum-of-even-numbers-after-queries,61.99856419954124
+Uncommon Words from Two Sentences,/problems/uncommon-words-from-two-sentences,61.925009140272714
+IP to CIDR,/problems/ip-to-cidr,61.87311178247734
+Trim a Binary Search Tree,/problems/trim-a-binary-search-tree,61.857782928863195
+Letter Case Permutation,/problems/letter-case-permutation,61.759027166181156
+Invert Binary Tree,/problems/invert-binary-tree,61.73863983638543
+Prime Number of Set Bits in Binary Representation,/problems/prime-number-of-set-bits-in-binary-representation,61.71186359038582
+Average of Levels in Binary Tree,/problems/average-of-levels-in-binary-tree,61.327461830402406
+Palindrome Permutation,/problems/palindrome-permutation,61.167974739959064
+Goat Latin,/problems/goat-latin,61.162463343108506
+Fizz Buzz,/problems/fizz-buzz,61.1502435449342
+Similar RGB Color,/problems/similar-rgb-color,61.05331179321486
+Maximum Number of Balloons,/problems/maximum-number-of-balloons,60.899566837916794
+Distribute Candies,/problems/distribute-candies,60.74899942824471
+Shift 2D Grid,/problems/shift-2d-grid,60.59382801296012
+Two Sum Less Than K,/problems/two-sum-less-than-k,60.46711090585208
+Check If a Number Is Majority Element in a Sorted Array,/problems/check-if-a-number-is-majority-element-in-a-sorted-array,60.24891700474455
+Binary Gap,/problems/binary-gap,60.148851055912175
+Element Appearing More Than 25% In Sorted Array,/problems/element-appearing-more-than-25-in-sorted-array,60.13393098234056
+Distribute Candies to People,/problems/distribute-candies-to-people,60.1284315299406
+Flip Game,/problems/flip-game,60.01993630738161
+Shortest Word Distance,/problems/shortest-word-distance,59.92039108052381
+Reshape the Matrix,/problems/reshape-the-matrix,59.916425170772094
+Reverse Linked List,/problems/reverse-linked-list,59.726696796521026
+Intersection of Two Arrays,/problems/intersection-of-two-arrays,59.511968276575956
+Complement of Base 10 Integer,/problems/complement-of-base-10-integer,59.49105508649701
+Rank Transform of an Array,/problems/rank-transform-of-an-array,59.347932668736725
+Index Pairs of a String,/problems/index-pairs-of-a-string,59.245960502692995
+Design HashMap,/problems/design-hashmap,58.98971000935453
+Binary Number with Alternating Bits,/problems/binary-number-with-alternating-bits,58.88303708580206
+Duplicate Zeros,/problems/duplicate-zeros,58.7307812990273
+Design HashSet,/problems/design-hashset,58.38020579594608
+Compare Strings by Frequency of the Smallest Character,/problems/compare-strings-by-frequency-of-the-smallest-character,58.32241395220079
+Delete Node in a Linked List,/problems/delete-node-in-a-linked-list,58.31385855740766
+Convert Integer to the Sum of Two No-Zero Integers,/problems/convert-integer-to-the-sum-of-two-no-zero-integers,57.86290322580645
+Surface Area of 3D Shapes,/problems/surface-area-of-3d-shapes,57.85548129823136
+Largest Triangle Area,/problems/largest-triangle-area,57.45955662073098
+Fair Candy Swap,/problems/fair-candy-swap,57.219732201818104
+Reverse Only Letters,/problems/reverse-only-letters,57.1657296049447
+Longest Uncommon Subsequence I ,/problems/longest-uncommon-subsequence-i,57.13852492444761
+Partition Array Into Three Parts With Equal Sum,/problems/partition-array-into-three-parts-with-equal-sum,57.081836502234296
+Largest Perimeter Triangle,/problems/largest-perimeter-triangle,57.07707274889201
+Number of Days in a Month,/problems/number-of-days-in-a-month,57.04709522172568
+N-th Tribonacci Number,/problems/n-th-tribonacci-number,56.927166400850616
+Monotonic Array,/problems/monotonic-array,56.73798119567146
+Rotated Digits,/problems/rotated-digits,56.45633833383067
+Move Zeroes,/problems/move-zeroes,56.30365340578164
+Remove Palindromic Subsequences,/problems/remove-palindromic-subsequences,56.16724179439853
+Max Consecutive Ones,/problems/max-consecutive-ones,56.0880286151477
+Nim Game,/problems/nim-game,56.042791402979134
+Majority Element,/problems/majority-element,55.90665109320455
+Shortest Completing Word,/problems/shortest-completing-word,55.880969183721476
+Employee Importance,/problems/employee-importance,55.82508893092805
+Two City Scheduling,/problems/two-city-scheduling,55.60668547861949
+Add Digits,/problems/add-digits,55.58928158737495
+Distance Between Bus Stops,/problems/distance-between-bus-stops,55.21937497855991
+Convert Sorted Array to Binary Search Tree,/problems/convert-sorted-array-to-binary-search-tree,55.204496415067275
+Valid Anagram,/problems/valid-anagram,55.1833347078282
+Find All Numbers Disappeared in an Array,/problems/find-all-numbers-disappeared-in-an-array,55.13281488811634
+Count Binary Substrings,/problems/count-binary-substrings,55.09958579962544
+Verifying an Alien Dictionary,/problems/verifying-an-alien-dictionary,55.00126434238391
+Contains Duplicate,/problems/contains-duplicate,54.89282407353957
+Roman to Integer,/problems/roman-to-integer,54.57615593213523
+Best Time to Buy and Sell Stock II,/problems/best-time-to-buy-and-sell-stock-ii,54.381623277182236
+Two Sum IV - Input is a BST,/problems/two-sum-iv-input-is-a-bst,54.341240892266605
+Find the Difference,/problems/find-the-difference,54.28559084835412
+Meeting Rooms,/problems/meeting-rooms,53.78666569619332
+Reorder Data in Log Files,/problems/reorder-data-in-log-files,53.653763058231455
+Convert BST to Greater Tree,/problems/convert-bst-to-greater-tree,53.613937805943166
+Greatest Common Divisor of Strings,/problems/greatest-common-divisor-of-strings,53.4536260199977
+Find Winner on a Tic Tac Toe Game,/problems/find-winner-on-a-tic-tac-toe-game,53.34349283754952
+Excel Sheet Column Number,/problems/excel-sheet-column-number,53.29906280314807
+Construct String from Binary Tree,/problems/construct-string-from-binary-tree,53.07049653331036
+Missing Number In Arithmetic Progression,/problems/missing-number-in-arithmetic-progression,53.06834030683403
+Flood Fill,/problems/flood-fill,53.054444932195956
+Detect Capital,/problems/detect-capital,53.03172731852482
+Degree of an Array,/problems/degree-of-an-array,52.877046889022935
+Hexspeak,/problems/hexspeak,52.76589467473079
+Two Sum II - Input array is sorted,/problems/two-sum-ii-input-array-is-sorted,52.64996551823007
+Diet Plan Performance,/problems/diet-plan-performance,52.64123738366758
+Minimum Absolute Difference in BST,/problems/minimum-absolute-difference-in-bst,52.40149903777981
+Array Transformation,/problems/array-transformation,52.32895806713904
+Cousins in Binary Tree,/problems/cousins-in-binary-tree,52.19864618588909
+Same Tree,/problems/same-tree,51.82165871166225
+Ransom Note,/problems/ransom-note,51.5097122087827
+First Unique Character in a String,/problems/first-unique-character-in-a-string,51.50246870454273
+Minimum Distance Between BST Nodes,/problems/minimum-distance-between-bst-nodes,51.44255721889216
+Merge Two Sorted Lists,/problems/merge-two-sorted-lists,51.39111874354211
+Paint House,/problems/paint-house,51.18611901857123
+Number of Boomerangs,/problems/number-of-boomerangs,51.15682482135776
+Lemonade Change,/problems/lemonade-change,51.069611126339254
+Maximize Sum Of Array After K Negations,/problems/maximize-sum-of-array-after-k-negations,50.78649530021101
+Sum of Two Integers,/problems/sum-of-two-integers,50.646256856073904
+Prime Arrangements,/problems/prime-arrangements,50.64304086881967
+Image Smoother,/problems/image-smoother,50.55061147155079
+Binary Search,/problems/binary-search,50.53197430207206
+Confusing Number,/problems/confusing-number,50.37834889903879
+Intersection of Two Arrays II,/problems/intersection-of-two-arrays-ii,50.322196443446956
+Missing Number,/problems/missing-number,50.298416876513215
+Sum of Left Leaves,/problems/sum-of-left-leaves,50.23141740748132
+Pascal's Triangle,/problems/pascals-triangle,50.154672392062
+Binary Tree Level Order Traversal II,/problems/binary-tree-level-order-traversal-ii,50.01047120418848
+Minimum Moves to Equal Array Elements,/problems/minimum-moves-to-equal-array-elements,49.81466547302846
+Minimum Index Sum of Two Lists,/problems/minimum-index-sum-of-two-lists,49.80015783712227
+Find the Town Judge,/problems/find-the-town-judge,49.787665179245074
+Relative Ranks,/problems/relative-ranks,49.598379686805316
+Longest Palindrome,/problems/longest-palindrome,49.52925908447381
+Rotate String,/problems/rotate-string,49.48954618558143
+Best Time to Buy and Sell Stock,/problems/best-time-to-buy-and-sell-stock,49.42191968874527
+Range Addition II,/problems/range-addition-ii,49.22567695109469
+Construct the Rectangle,/problems/construct-the-rectangle,49.19612631896576
+Assign Cookies,/problems/assign-cookies,49.171466968202566
+Binary Tree Paths,/problems/binary-tree-paths,49.1039910732457
+Min Cost Climbing Stairs,/problems/min-cost-climbing-stairs,49.046486706350755
+1-bit and 2-bit Characters,/problems/1-bit-and-2-bit-characters,49.03882293624238
+Day of the Year,/problems/day-of-the-year,48.99771538064706
+Positions of Large Groups,/problems/positions-of-large-groups,48.76925730815674
+Happy Number,/problems/happy-number,48.57903849500488
+Rectangle Overlap,/problems/rectangle-overlap,48.46882651431816
+Diameter of Binary Tree,/problems/diameter-of-binary-tree,48.23996180930693
+Flower Planting With No Adjacent,/problems/flower-planting-with-no-adjacent,48.232819840489455
+Kth Largest Element in a Stream,/problems/kth-largest-element-in-a-stream,48.23267027383598
+Number of Days Between Two Dates,/problems/number-of-days-between-two-dates,48.1622984641247
+Lowest Common Ancestor of a Binary Search Tree,/problems/lowest-common-ancestor-of-a-binary-search-tree,48.05347609312724
+Is Subsequence,/problems/is-subsequence,47.9312423569128
+Binary Tree Tilt,/problems/binary-tree-tilt,47.72902948754652
+Reverse String II,/problems/reverse-string-ii,47.33325625688364
+Backspace String Compare,/problems/backspace-string-compare,47.22026248534091
+Rotting Oranges,/problems/rotting-oranges,47.18544348601243
+Implement Queue using Stacks,/problems/implement-queue-using-stacks,47.11204811806288
+Longest Word in Dictionary,/problems/longest-word-in-dictionary,47.10289573705942
+Pairs of Songs With Total Durations Divisible by 60,/problems/pairs-of-songs-with-total-durations-divisible-by-60,47.077651994647184
+Pascal's Triangle II,/problems/pascals-triangle-ii,47.03497250074863
+Binary Prefix Divisible By 5,/problems/binary-prefix-divisible-by-5,47.01302745627238
+Number of 1 Bits,/problems/number-of-1-bits,47.009684083415706
+Check If It Is a Straight Line,/problems/check-if-it-is-a-straight-line,46.959780885108835
+Remove Element,/problems/remove-element,46.90676397297527
+Number of Equivalent Domino Pairs,/problems/number-of-equivalent-domino-pairs,46.867964880684376
+Maximum Product of Three Numbers,/problems/maximum-product-of-three-numbers,46.828174586027934
+Palindrome Number,/problems/palindrome-number,46.72688279284553
+Student Attendance Record I,/problems/student-attendance-record-i,46.49457145668646
+Binary Watch,/problems/binary-watch,46.46130719593273
+Climbing Stairs,/problems/climbing-stairs,46.167297303121316
+Closest Binary Search Tree Value,/problems/closest-binary-search-tree-value,46.15795134192644
+Add Strings,/problems/add-strings,46.02706174585189
+Maximum Subarray,/problems/maximum-subarray,45.68413183066314
+Base 7,/problems/base-7,45.63869593321255
+Symmetric Tree,/problems/symmetric-tree,45.63786962017618
+Longest Harmonious Subsequence,/problems/longest-harmonious-subsequence,45.330882704881155
+Longest Continuous Increasing Subsequence,/problems/longest-continuous-increasing-subsequence,45.275894110436724
+Two Sum,/problems/two-sum,45.10593697276598
+Path Sum III,/problems/path-sum-iii,44.874808410238906
+Find Smallest Letter Greater Than Target,/problems/find-smallest-letter-greater-than-target,44.86642005754213
+Long Pressed Name,/problems/long-pressed-name,44.851228601374174
+Remove Duplicates from Sorted List,/problems/remove-duplicates-from-sorted-list,44.327825951725956
+Bold Words in String,/problems/bold-words-in-string,44.28876310661594
+Add to Array-Form of Integer,/problems/add-to-array-form-of-integer,44.14704129298754
+Strobogrammatic Number,/problems/strobogrammatic-number,44.068790810702794
+Subtree of Another Tree,/problems/subtree-of-another-tree,43.73695610343347
+Most Common Word,/problems/most-common-word,43.71738167291186
+Remove Duplicates from Sorted Array,/problems/remove-duplicates-from-sorted-array,43.40728575866903
+Convert a Number to Hexadecimal,/problems/convert-a-number-to-hexadecimal,43.14903582275239
+Reverse Vowels of a String,/problems/reverse-vowels-of-a-string,43.102369559661966
+Count and Say,/problems/count-and-say,43.08024544729985
+Second Minimum Node In a Binary Tree,/problems/second-minimum-node-in-a-binary-tree,42.96781458925255
+Find Pivot Index,/problems/find-pivot-index,42.87640202848342
+Implement Stack using Queues,/problems/implement-stack-using-queues,42.835768350642496
+Power of Two,/problems/power-of-two,42.809461639373076
+License Key Formatting,/problems/license-key-formatting,42.63228374689917
+Balanced Binary Tree,/problems/balanced-binary-tree,42.55647377086499
+Add Binary,/problems/add-binary,42.31698887568852
+Maximize Distance to Closest Person,/problems/maximize-distance-to-closest-person,42.16173563601754
+Max Stack,/problems/max-stack,42.0292310153684
+Range Sum Query - Immutable,/problems/range-sum-query-immutable,41.979547287998855
+Plus One,/problems/plus-one,41.91891360446288
+Power of Three,/problems/power-of-three,41.916069556099266
+Sentence Similarity,/problems/sentence-similarity,41.6441392733564
+House Robber,/problems/house-robber,41.59859702205889
+Set Mismatch,/problems/set-mismatch,41.514420089352875
+Repeated Substring Pattern,/problems/repeated-substring-pattern,41.48723315838887
+Search Insert Position,/problems/search-insert-position,41.477705958471354
+Guess Number Higher or Lower,/problems/guess-number-higher-or-lower,41.44545177674344
+Bulls and Cows,/problems/bulls-and-cows,41.42171791699895
+Ugly Number,/problems/ugly-number,41.219453310327566
+Check If N and Its Double Exist,/problems/check-if-n-and-its-double-exist,41.18071543933198
+Largest Number At Least Twice of Others,/problems/largest-number-at-least-twice-of-others,41.153508020148514
+Power of Four,/problems/power-of-four,41.1411456745096
+Find Mode in Binary Search Tree,/problems/find-mode-in-binary-search-tree,41.12537764350453
+Min Stack,/problems/min-stack,40.99468331705777
+Valid Perfect Square,/problems/valid-perfect-square,40.896555040434926
+Maximum Average Subarray I,/problems/maximum-average-subarray-i,40.86020208840765
+Path Sum,/problems/path-sum,39.885442508859484
+Moving Stones Until Consecutive,/problems/moving-stones-until-consecutive,39.82077740709132
+String Compression,/problems/string-compression,39.81070569456622
+Powerful Integers,/problems/powerful-integers,39.75426256510706
+Linked List Cycle,/problems/linked-list-cycle,39.640319143592045
+Arranging Coins,/problems/arranging-coins,39.27232625255135
+Isomorphic Strings,/problems/isomorphic-strings,39.045675151231684
+Maximum Distance in Arrays,/problems/maximum-distance-in-arrays,38.516432732196975
+Merge Sorted Array,/problems/merge-sorted-array,38.13124354381584
+Valid Parentheses,/problems/valid-parentheses,38.091088766612486
+Palindrome Linked List,/problems/palindrome-linked-list,37.990028998390876
+Intersection of Two Linked Lists,/problems/intersection-of-two-linked-lists,37.92622184301305
+Factorial Trailing Zeroes,/problems/factorial-trailing-zeroes,37.737449456545605
+Valid Boomerang,/problems/valid-boomerang,37.59663264463946
+Paint Fence,/problems/paint-fence,37.55928247632441
+Number of Segments in a String,/problems/number-of-segments-in-a-string,37.496595081663564
+Remove Linked List Elements,/problems/remove-linked-list-elements,37.120848752854805
+Valid Word Square,/problems/valid-word-square,37.1007198290406
+Contains Duplicate II,/problems/contains-duplicate-ii,36.77533568465422
+Magic Squares In Grid,/problems/magic-squares-in-grid,36.649888354842375
+Minimum Depth of Binary Tree,/problems/minimum-depth-of-binary-tree,36.590711251969026
+Design Compressed String Iterator,/problems/design-compressed-string-iterator,36.31627613269885
+Word Pattern,/problems/word-pattern,36.28888795211196
+Valid Palindrome II,/problems/valid-palindrome-ii,35.80257442405221
+Largest Time for Given Digits,/problems/largest-time-for-given-digits,35.67751663893511
+Valid Mountain Array,/problems/valid-mountain-array,35.51068307680371
+Perfect Number,/problems/perfect-number,35.2456909294225
+Longest Univalue Path,/problems/longest-univalue-path,35.15623952406281
+Reverse Bits,/problems/reverse-bits,35.06607502167036
+Longest Common Prefix,/problems/longest-common-prefix,34.69960252465997
+Valid Palindrome,/problems/valid-palindrome,34.1653214237567
+Walking Robot Simulation,/problems/walking-robot-simulation,34.080960332144954
+X of a Kind in a Deck of Cards,/problems/x-of-a-kind-in-a-deck-of-cards,34.03224534402921
+Implement strStr(),/problems/implement-strstr,33.77789952196706
+Rotate Array,/problems/rotate-array,33.03580840427401
+First Bad Version,/problems/first-bad-version,33.018838738191256
+Sqrt(x),/problems/sqrtx,32.908465480081645
+Two Sum III - Data structure design,/problems/two-sum-iii-data-structure-design,32.68058394289473
+Heaters,/problems/heaters,32.582320429700964
+Sum of Square Numbers,/problems/sum-of-square-numbers,32.446438451467294
+Length of Last Word,/problems/length-of-last-word,32.44213087739293
+Read N Characters Given Read4,/problems/read-n-characters-given-read4,32.22959308358982
+Repeated String Match,/problems/repeated-string-match,32.042881077140905
+Can Place Flowers,/problems/can-place-flowers,31.58076565974996
+K-diff Pairs in an Array,/problems/k-diff-pairs-in-an-array,30.933065028595635
+Shortest Unsorted Continuous Subarray,/problems/shortest-unsorted-continuous-subarray,30.687311386088663
+Count Primes,/problems/count-primes,30.610888078814636
+Excel Sheet Column Title,/problems/excel-sheet-column-title,30.19637755401398
+Valid Word Abbreviation,/problems/valid-word-abbreviation,30.12319217342402
+Third Maximum Number,/problems/third-maximum-number,29.978691856754285
+Buddy Strings,/problems/buddy-strings,27.734910586656554
+Reverse Integer,/problems/reverse-integer,25.629202287618146
+Non-decreasing Array,/problems/non-decreasing-array,19.44197164727966
